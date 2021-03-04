@@ -23,7 +23,7 @@
 <p align="left">
 
 <a href="http://gabrielaribeiro.info/curriculo/" target="_blank" alt="Facebook">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133" height="20" role="img" aria-label="💻 Currículo e Projetos"><title>💻 Currículo e Projetos</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="133" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#e05d44"/><rect x="0" width="133" height="20" fill="#e05d44"/><rect width="133" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="665" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1230">💻 Currículo e Projetos</text><text x="665" y="140" transform="scale(.1)" fill="#fff" textLength="1230">💻 Currículo e Projetos</text></g></svg></a>
+<img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=💻&logoColor=white&link=http://gabrielaribeiro.info/curriculo/"/></a>
 </p>
 
 <a href="https://www.linkedin.com/in/gabriela-rneves" target="_blank" alt="Linkedin">
