@@ -9,15 +9,15 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>JS, jQuery, CSS, HTML, Bootstrap, SEO, Projetos e SQL Server</strong>
+  💻 Skills: <strong>Angular, TS, JS, PHP, Wordpress, jQuery, CSS, HTML, Bootstrap, SEO, Projetos e SQL Server</strong>
 </p>
 
 <p align="left">
-  📚 Estudando: <strong>PHP e Typescript.</strong>
+  📚 Estudando: <strong>React.</strong>
 </p>
 
 <p align="left">
-  📌 Próximos estudos: <strong>Laravel, Wordpress, React e UX.</strong>
+  📌 Próximos estudos: <strong>NodeJS.</strong>
 </p>
 
 <p align="left">
