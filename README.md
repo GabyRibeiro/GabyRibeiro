@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  Desenvolvedora <strong>Front-end</strong>, e <em>apaixonada</em> por <strike>Memes ruins</strike>, Tecnologia <strong>&</strong> Star Wars!
+  Desenvolvedora <strong>Front-end</strong> há mais de 5 anos, e <em>apaixonada</em> por <strike>Memes ruins</strike>, Tecnologia <strong>&</strong> Star Wars!
 </p>
 
 <p align="left">
