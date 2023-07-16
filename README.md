@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  💻 Skills: <strong>Angular, TS, JS, PHP, Wordpress, jQuery, CSS, HTML, Bootstrap, SEO, Projetos e SQL Server</strong>
+  💻 Skills: <strong>Angular, TS, JS, React, PHP, Wordpress, jQuery, CSS, HTML, Bootstrap, SEO, Projetos e SQL Server</strong>
 </p>
 
 <p align="left">
-  📚 Estudando: <strong>React.</strong>
+  📚 Estudando: <strong>Java.</strong>
 </p>
 
 <p align="left">
