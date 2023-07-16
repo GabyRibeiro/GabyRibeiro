@@ -22,7 +22,7 @@
 
 <p align="left">
 
-<a href="http://gabrielaribeiro.info/curriculo/" target="_blank" alt="Facebook">
+<a href="https://gabys.dev/" target="_blank" alt="Facebook">
 <img src="https://img.shields.io/badge/-Portfolio-d39c00?style=flat-square&labelColor=d39c00&logo=Riseup&logoColor=white&link=http://gabrielaribeiro.info/curriculo/"/></a>
 
 <a href="https://www.linkedin.com/in/gabriela-rneves" target="_blank" alt="Linkedin">
@@ -31,6 +31,4 @@
 <a href="mailto:gabriela.rneves@outlook.com" target="_blank" alt="gabriela.rneves@outlook.com">
 <img src="https://img.shields.io/badge/-Outlook-0f377f?style=flat-square&labelColor=0f377f&logo=microsoft-outlook&logoColor=white&link=gabriela.rneves@outlook.com" /></a>
 
-<a href="https://www.facebook.com/gabriela.ribeironeves/" target="_blank" alt="Facebook">
-<img src="https://img.shields.io/badge/-Facebook-4169E1?style=flat-square&labelColor=4169E1&logo=facebook&logoColor=white&link=https://www.facebook.com/gabriela.ribeironeves/"/></a>
 </p>
